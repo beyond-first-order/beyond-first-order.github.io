@@ -6,13 +6,13 @@ subtitle: Beyond First-Order Optimization in Machine Learning
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 Optimization is a cornerstone of nearly all modern machine learning (ML) and deep learning (DL). Simple first-order gradient-based methods dominate the field for convincing reasons: low computational cost, simplicity of implementation, and strong empirical results.
 
-At the same time, second- or higher-order methods are rarely used in DL, despite also having many strengths: faster per-iteration convergence, frequent explicit regularization on step-size, and may be more parallelizable than SGD. Additionally, many scientific fields use second-order optimization with great success.
+Yet second- or higher-order methods are rarely used in DL, despite also having many strengths: faster per-iteration convergence, frequent explicit regularization on step-size, and better parallelization than SGD. Additionally, many scientific fields use second-order optimization with great success.
 
-A possible reason for this is the large difference in development effort. By the time higher-order methods were tractable for DL, first-order methods such as SGD and it's main varients (Adam, AdaGrad, ...) already had many years of maturity and mass adoption.
+A driving factor for this is the large difference in development effort. By the time higher-order methods were tractable for DL, first-order methods such as SGD and it's main varients (Adam, AdaGrad, ...) already had many years of maturity and mass adoption.
 
 The purpose of this workshop is to address this gap, to create an environment where higher-order methods are fairly considered and compared against one-another, and to foster healthy discussion with the end goal of mainstream acceptance of higher-order methods in ML and DL.
