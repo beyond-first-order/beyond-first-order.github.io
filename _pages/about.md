@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Beyond First-Order Optimization in Machine Learning
+subtitle: <p style="color:#359B9C";>Beyond First-Order Optimization in Machine Learning</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
