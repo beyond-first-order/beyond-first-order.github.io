@@ -3,16 +3,13 @@ layout: about
 title: about
 permalink: /
 subtitle: <p style="color:#359B9C";>Beyond First-Order Optimization in Machine Learning</p>
-
-
-profile:
-  align: right
-  image: logo.png
-
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+<img style="float: right; background-color: transparent;" src="logo.png">
+
 
 Optimization is a cornerstone of nearly all modern machine learning (ML) and deep learning (DL). Simple first-order gradient-based methods dominate the field for convincing reasons: low computational cost, simplicity of implementation, and strong empirical results.
 
