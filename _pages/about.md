@@ -4,6 +4,11 @@ title: about
 permalink: /
 subtitle: <p style="color:#359B9C";>Beyond First-Order Optimization in Machine Learning</p>
 
+
+profile:
+  align: right
+  image: logo.png
+
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
