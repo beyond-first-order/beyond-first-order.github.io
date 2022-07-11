@@ -6,7 +6,7 @@ redirect_to:  https://fastml.net/
 
 title: Jarad Forristal
 description: Student, University of Texas.
-img: assets/img/jarad.jpg
+img: assets/img/jarad.png
 importance: 1
 category: organizers
 ---
