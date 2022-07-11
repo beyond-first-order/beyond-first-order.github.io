@@ -8,5 +8,5 @@ title: Amir Gholami
 description: Research Scientist, UC Berkeley.
 img: assets/img/amir.jpg
 importance: 1
-category: organizers
+category: invited speakers
 ---

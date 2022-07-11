@@ -8,5 +8,5 @@ title: Madeleine Udell
 description: Faculty, Stanford University.
 img: assets/img/madeleine.jpg
 importance: 1
-category: organizers
+category: invited speakers
 ---

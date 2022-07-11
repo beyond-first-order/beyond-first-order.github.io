@@ -8,5 +8,5 @@ title: Donald Goldfarb
 description: Faculty, Columbia Engineering.
 img: assets/img/donald.jpg
 importance: 1
-category: organizers
+category: invited speakers
 ---

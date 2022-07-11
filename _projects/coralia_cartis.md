@@ -8,5 +8,5 @@ title: Coralia Cartis
 description: Faculty, University of Oxford.
 img: assets/img/coralia.jpg
 importance: 1
-category: organizers
+category: invited speakers
 ---

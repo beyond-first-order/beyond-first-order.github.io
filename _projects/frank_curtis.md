@@ -8,5 +8,5 @@ title: Frank E. Curtis
 description: Faculty, Lehigh University.
 img: assets/img/frank.jpg
 importance: 1
-category: organizers
+category: invited speakers
 ---
