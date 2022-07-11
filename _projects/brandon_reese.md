@@ -7,6 +7,6 @@ redirect_to:  https://www.linkedin.com/in/brandon-m-reese/
 title: Brandon Reese
 description: Manager at SAS Institute.
 img: assets/img/brandon.png
-importance: 1
+importance: 4
 category: organizers
 ---

@@ -7,6 +7,6 @@ redirect_to:  https://www.jelena-diakonikolas.com/
 title: Jelena Diakonikolas
 description: Faculty, University of Wisconsin-Madison.
 img: assets/img/jelena.jpg
-importance: 1
+importance: 2
 category: organizers
 ---

@@ -4,9 +4,9 @@ sitemap: false
 permalink: /jarad_f/
 redirect_to:  https://fastml.net/
 
-title: Jarad Forristal
+title: Jarad M. Forristal
 description: Student, University of Texas.
 img: assets/img/jarad.png
-importance: 1
+importance: 3
 category: organizers
 ---
