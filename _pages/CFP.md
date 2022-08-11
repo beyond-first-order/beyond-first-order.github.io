@@ -26,7 +26,7 @@ Some examples of acceptable topics include:
 
 If a submission does not fall into one of the above topics, but is still related to higher-order optimization, we encourage its submission. "Beating" Adam / SGD is not a requirement, but we do expect fair apples-to-apples comparison to related higher-order optimizers (if applicable).
 
-For submission formatting, please use the HOOML-2022 Style Files. More information regarding this will be released shortly. We ask all papers be limited to 5 pages.
+For submission formatting, please use the HOOML-2022 Style Files. These files can be downloaded [*HERE*](./style.zip). We ask all papers be limited to 5 pages.
 
 ## Submission Process
 
