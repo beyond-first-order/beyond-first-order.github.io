@@ -17,6 +17,6 @@ Optimization is a cornerstone of nearly all modern machine learning (ML) and dee
 
 Yet second- or higher-order methods are rarely used in DL, despite also having many strengths: faster per-iteration convergence, frequent explicit regularization on step-size, and better parallelization than SGD. Additionally, many scientific fields use second-order optimization with great success.
 
-A driving factor for this is the large difference in development effort. By the time higher-order methods were tractable for DL, first-order methods such as SGD and it's main varients (SGD + Momentum, Adam, ...) already had many years of maturity and mass adoption.
+A driving factor for this is the large difference in development effort. By the time higher-order methods were tractable for DL, first-order methods such as SGD and it's main variants (SGD + Momentum, Adam, ...) already had many years of maturity and mass adoption.
 
 The purpose of this workshop is to address this gap, to create an environment where higher-order methods are fairly considered and compared against one-another, and to foster healthy discussion with the end goal of mainstream acceptance of higher-order methods in ML and DL.
