@@ -31,3 +31,22 @@ This talk highlights the recent work by my research group on the design, analysi
   
 Low rank structure is pervasive in real-world datasets. This talk shows how to accelerate the solution of fundamental computational problems, including eigenvalue decomposition, linear system solves, and composite convex optimization,by exploiting this low rank structure. We present a simple and efficient method for approximate top eigendecomposition based on randomized numerical linear algebra. Armed with this primitive, we design a new randomized preconditioner for the conjugate gradient method, and a method called NysADMM, based on the inexact alternating directions method of multipliers, for composite convex optimization. These methods come with strong theoretical and numerical support. Indeed, a simple implementation of NysADMM solves important large-scale statistical problems like lasso, logistic regression, and support vector machines 2--58x faster than standard solvers.
 </details>
+  
+## Schedule
+| Allocated Time | Agenda Item                                           |
+|----------------|-------------------------------------------------------|
+| 08.30 - 08.45  | Welcome and opening remarks                           |
+| 08.45 - 09.30  | Plenary Talk from  Donald Goldfarb                    |
+| 09.30 - 10.15  | Plenary Talk from Coralia Cartis                      |
+| 10.15 - 11.00  | Spotlight Talks #1                                    |
+| 11.00 - 11.30  | Coffee Break                                          |
+| 11.00 - 12.00  | Poster Session  #1                                    |
+| 12.00 - 12.45  | Spotlight talks #2                                    |
+| 12.45 - 14.15  | Lunch Break                                           |
+| 14.15 -  15.00 | Plenary Talk from Frank E. Curtis                     |
+| 15.00 - 15.45  | Plenary Talk from Madeleine Udell                     |
+| 15.45 - 16.15  | Coffee Break                                          |
+| 15.45 - 16.30  | Poster Session #2                                     |
+| 16.30 - 17.15  | Plenary talk from  Amir Gholami                       |
+| 17.15 - 18.00  | Junior researcher poster session                      |
+| 18.00 - 18.15  | Plenary ending discussion and closing remarks         |
