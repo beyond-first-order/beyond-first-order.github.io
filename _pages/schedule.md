@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: talks
+title: schedule
 description: All confirmed talks for BFO-2022. Click on a title to expand the abstract.
 nav: true
 nav_order: 2
@@ -33,6 +33,7 @@ Low rank structure is pervasive in real-world datasets. This talk shows how to a
 </details>
   
 ## Schedule
+  
 | Allocated Time | Agenda Item                                           |
 |----------------|-------------------------------------------------------|
 | 08.30 - 08.45  | Welcome and opening remarks                           |
