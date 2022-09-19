@@ -34,20 +34,20 @@ Low rank structure is pervasive in real-world datasets. This talk shows how to a
   
 ## Schedule
   
-| Allocated Time | Agenda Item                                           |
-|----------------|-------------------------------------------------------|
-| 08.30 - 08.45  | Welcome and opening remarks                           |
-| 08.45 - 09.30  | Plenary Talk from  Donald Goldfarb                    |
-| 09.30 - 10.15  | Plenary Talk from Coralia Cartis                      |
-| 10.15 - 11.00  | Spotlight Talks #1                                    |
-| 11.00 - 11.30  | Coffee Break                                          |
-| 11.00 - 12.00  | Poster Session  #1                                    |
-| 12.00 - 12.45  | Spotlight talks #2                                    |
-| 12.45 - 14.15  | Lunch Break                                           |
-| 14.15 -  15.00 | Plenary Talk from Frank E. Curtis                     |
-| 15.00 - 15.45  | Plenary Talk from Madeleine Udell                     |
-| 15.45 - 16.15  | Coffee Break                                          |
-| 15.45 - 16.30  | Poster Session #2                                     |
-| 16.30 - 17.15  | Plenary talk from  Amir Gholami                       |
-| 17.15 - 18.00  | Junior researcher poster session                      |
-| 18.00 - 18.15  | Plenary ending discussion and closing remarks         |
+| **Allocated Time** | **Agenda Item**                               |
+|--------------------|-----------------------------------------------|
+| 08.30 - 08.45      | Welcome and opening remarks                   |
+| 08.45 - 09.30      | Plenary Talk from  Donald Goldfarb            |
+| 09.30 - 10.15      | Plenary Talk from Coralia Cartis              |
+| 10.15 - 11.00      | Spotlight Talks \#1                           |
+| 11.00 - 11.30      | Coffee Break                                  |
+| 11.00 - 12.00      | Poster Session  \#1                           |
+| 12.00 - 12.45      | Spotlight talks \#2                           |
+| 12.45 - 14.15      | Lunch Break                                   |
+| 14.15 - 15.00      | Plenary Talk from Frank E. Curtis             |
+| 15.00 - 15.45      | Plenary Talk from Madeleine Udell             |
+| 15.45 - 16.15      | Coffee Break                                  |
+| 15.45 - 16.45      | Poster Session \#2                            |
+| 16.45 - 17.30      | Plenary talk from  Amir Gholami               |
+| 17.30 - 17.45      | Plenary ending discussion and closing remarks |
+
