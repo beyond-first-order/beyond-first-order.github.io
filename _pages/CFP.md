@@ -28,9 +28,7 @@ If a submission does not fall into one of the above topics, but is still related
 
 For submission formatting, please use the HOO-2022 Style Files. These files can be downloaded [**HERE**](https://order-up-ml.github.io/style.zip). We ask all papers be limited to 5 pages (before references) and be submitted anonymized.
 
-A seperate opt-in poster session will be held dedicated entirely to "junior researchers" with a goal of letting more senior academics provide advice and network among junior academics. This is entirely opt-in with no requirements, so if you're interested please send an email to the address found at the bottom of the homepage.
-
-#### There will be a best paper / best poster prize!
+**There will be a best paper / best poster prize!**
 
 ## Submission Process
 
