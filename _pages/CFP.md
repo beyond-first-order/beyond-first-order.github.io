@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 ## Important Dates
-- Deadline for paper submission: September 22, Anywhere On Earth (AOE)
+- Deadline for paper submission: **September 30th**, Anywhere On Earth (AOE)
 - Notification of acceptance:    October 20, AOE
 - Camera-ready submission date:  TBD, AOE
 - Workshop date:                 December 2nd, 2022
