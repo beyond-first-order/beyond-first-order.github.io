@@ -19,6 +19,12 @@ Pruning is an effective way to reduce the huge inference cost of large Transform
   
 We consider the advantages of having and incorporating higher- (than second-) order derivative information inside regularization frameworks, generating higher-order regularization algorithms that have better complexity, universal properties and can certify higher-order criticality of candidate solutions. Time permitting, we also discuss inexact settings where problem information and smoothness assumptions are weakened, without affecting the algorithms’ complexity. Efficient solution of some higher-order polynomial subproblems will also be discussed. 
 </details>
+  
+<details>
+  <summary> <b>Donald Goldfarb</b>: <i>Efficient Second-Order Stochastic Methods for Machine Learning.</i> </summary>
+  
+Our talk focuses on training Deep Neural Networks (DNNs), which due to the enormous number of parameters current DNNs have, using the Hessian matrix or a full approximation to it in a second-order method is prohibitive, both in terms of memory requirements and computational cost per iteration. Hence, to be practical, layer-wise block-diagonal approximations to these matrices are usually used.  Here we describe second-order quasi-Newton (QN), natural gradient (NG), and generalized Gauss-Newton (GGN) methods of this type that are competitive with and often outperform first-order methods. These methods include those that use layer-wise (i) Kronecker-factored BFGS and L-BFGS QN approximations, (ii) tensor normal covariance and (iii) mini-block Fisher matrix approximations, and (iv) Sherman-Morrison-Woodbury based variants of NG and GGN methods.
+</details>
 
 <details>
   <summary> <b>Frank E. Curtis</b>: <i>Deterministically Constrained Stochastic Optimization.</i> </summary>
@@ -32,7 +38,7 @@ This talk highlights the recent work by my research group on the design, analysi
 Low rank structure is pervasive in real-world datasets. This talk shows how to accelerate the solution of fundamental computational problems, including eigenvalue decomposition, linear system solves, and composite convex optimization,by exploiting this low rank structure. We present a simple and efficient method for approximate top eigendecomposition based on randomized numerical linear algebra. Armed with this primitive, we design a new randomized preconditioner for the conjugate gradient method, and a method called NysADMM, based on the inexact alternating directions method of multipliers, for composite convex optimization. These methods come with strong theoretical and numerical support. Indeed, a simple implementation of NysADMM solves important large-scale statistical problems like lasso, logistic regression, and support vector machines 2--58x faster than standard solvers.
 </details>
   
-## Schedule
+## **Workshop Schedule**
   
 | **Allocated Time** | **Agenda Item**                               |
 |--------------------|-----------------------------------------------|
