@@ -37,6 +37,6 @@ horizontal: false
 {%- endif -%}
 
 ### With special thanks and funding from
-<img style="float: right; " src="../assets/img/sas-logo-midnight.jpg"
+<img style="float: right; " src="../assets/img/sas-logo-midnight.png"
      width="518"
      height="214" />
