@@ -37,4 +37,6 @@ horizontal: false
 {%- endif -%}
 
 ### With special thanks and funding from
-![SAS Logo](_pages/sas-logo-midnight.jpg)
+<img style="float: right; " src="../assets/img/sas-logo-midnight.jpg"
+     width="518"
+     height="214" />
