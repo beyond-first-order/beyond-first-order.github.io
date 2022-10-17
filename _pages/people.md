@@ -35,3 +35,6 @@ horizontal: false
   {%- endif -%}
   {% endfor %}
 {%- endif -%}
+
+### With special thanks and funding from
+![SAS Logo](sas-logo-midnight.jpg)
