@@ -37,4 +37,4 @@ horizontal: false
 {%- endif -%}
 
 ### With special thanks and funding from
-![SAS Logo](./sas-logo-midnight.jpg)
+![SAS Logo](_pages/sas-logo-midnight.jpg)
