@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: schedule
-description: All confirmed talks for BFO-2022. Click on a title to expand the abstract.
+description: All confirmed talks for HOO-2022. Click on a title to expand the abstract.
 nav: true
 nav_order: 2
 ---
