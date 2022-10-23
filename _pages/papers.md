@@ -2,7 +2,7 @@
 layout: page
 permalink: /papers/
 title: accepted papers
-description: All accepted papers for HOO-2022. Click on a title to expand the abstract.
+description: All accepted papers for HOO-2022. Click on a title to expand the abstract. 
 nav: true
 nav_order: 4
 ---
