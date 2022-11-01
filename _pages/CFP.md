@@ -4,7 +4,7 @@ permalink: /CFP/
 title: call for papers
 description: Information regarding our call for papers.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ## Important Dates
