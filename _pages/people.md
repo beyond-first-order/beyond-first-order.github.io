@@ -34,9 +34,10 @@ horizontal: false
   </div>
   {%- endif -%}
   {% endfor %}
+  
+  <b>With special thanks and funding from</b>
+  <img style="float: right; " src="../assets/img/sas-logo-midnight.png"
+   width="120"
+   height="53" />
+  
 {%- endif -%}
-
-### With special thanks and funding from
-<img style="float: right; " src="../assets/img/sas-logo-midnight.png"
-     width="518"
-     height="214" />
