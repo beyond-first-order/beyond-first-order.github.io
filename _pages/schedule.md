@@ -26,7 +26,8 @@ nav_order: 2
 | 16.45 - 17.30      | Plenary talk from  Amir Gholami               |
 | 17.30 - 17.45      | Plenary ending discussion and closing remarks |
 
-## Talks
+<br>
+## Plenary Talks
 
 
 <details>
@@ -59,3 +60,57 @@ This talk highlights the recent work by my research group on the design, analysi
   
 Low rank structure is pervasive in real-world datasets. This talk shows how to accelerate the solution of fundamental computational problems, including eigenvalue decomposition, linear system solves, and composite convex optimization,by exploiting this low rank structure. We present a simple and efficient method for approximate top eigendecomposition based on randomized numerical linear algebra. Armed with this primitive, we design a new randomized preconditioner for the conjugate gradient method, and a method called NysADMM, based on the inexact alternating directions method of multipliers, for composite convex optimization. These methods come with strong theoretical and numerical support. Indeed, a simple implementation of NysADMM solves important large-scale statistical problems like lasso, logistic regression, and support vector machines 2--58x faster than standard solvers.
 </details>
+  
+<br>
+## Spotlight Talks
+  
+<details>
+	<summary> <b> Farshed Abdukhakimov, Chulu Xiang, Dmitry Kamzolov, Robert M Gower, Martin Takac </b>: <i> PSPS: Preconditioned Stochastic Polyak Step-size method for badly scaled data </i> </summary>
+
+<br>
+The family of Stochastic Gradient Methods with Polyak Step-size offers an update rule that alleviates the need of fine-tuning the learning rate of an optimizer.  Recent work (Robert M Gower, Mathieu Blondel, Nidham Gazagnadou, and Fabian Pedregosa: Cutting some slack for SGD with adaptive polyak stepsizes) has been proposed to introduce a slack variable, which makes these methods applicable outside of the interpolation regime. In this paper, we combine  preconditioning and slack in an updated optimization algorithm to show its performance on badly scaled and/or ill-conditioned datasets. We use Hutchinson's method to obtain an estimate of a Hessian which is used as the preconditioner.
+<br>
+</details>  
+  
+<details>
+	<summary> <b> Dmitry Kamzolov, Klea Ziu, Artem Agafonov, Martin Takac </b>: <i> Cubic Regularized Quasi-Newton Methods </i> </summary>
+
+<br>
+In this paper, we propose a Cubic Regularized L-BFGS. Cubic Regularized Newton outperforms the classical Newton method in terms of global performance. In classics, L-BFGS approximation is applied for the Newton method. We propose a new variant of inexact Cubic Regularized Newton. Then, we use L-BFGS approximation as an inexact Hessian for Cubic Regularized Newton. It allows us to get better theoretical convergence rates and good practical performance, especially from the points where classical Newton is diverging. 
+<br>
+</details>
+  
+<details>
+	<summary> <b> Mengqui Lou, Kabir A Chandrasekher, Ashwin Pananjady </b>: <i> Alternating minimization for generalized rank one matrix sensing: Sharp predictions from a random initialization </i> </summary>
+
+<br>
+We consider the problem of estimating the factors of a rank-1 matrix with i.i.d. Gaussian, rank-1 measurements that are nonlinearly transformed and corrupted by noise. Considering two prototypical choices for the nonlinearity, we study the convergence properties of a natural alternating update rule for this nonconvex optimization problem starting from a random initialization. We show sharp linear convergence guarantees for a sample-split version of the algorithm by deriving a deterministic recursion that is accurate even in high-dimensional problems. Our sharp, non-asymptotic analysis also exposes several other fine-grained properties of this problem, including how the nonlinearity, sample size, and noise level affect convergence behavior. Our results are enabled by showing that the empirical error recursion can be predicted by our deterministic sequence within fluctuations of the order n^{-1/2} when each iteration is run with n observations. Our technique leverages leave-one-out tools and provides an avenue for sharply analyzing higher-order iterative algorithms from a random initialization in other optimization problems with random data.
+<br>
+</details>  
+ 
+<details>
+	<summary> <b> Zachary Novack, Simran Kaur, Tanya Marwah, Saurabh Garg, Zachary Lipton </b>: <i> Disentangling the Mechanisms Behind Implicit Regularization in SGD </i> </summary>
+
+<br>
+A number of competing hypotheses have been proposed to explain why small-batch Stochastic Gradient Descent (SGD) leads to improved generalization over the full-batch regime, with recent work crediting the implicit regularization of various quantities throughout training. However, to date, empirical evidence assessing the explanatory power of these hypotheses is lacking. In this paper, we conduct an extensive empirical evaluation, focusing on the ability of various theorized mechanisms to close the small-to-large batch generalization gap. Additionally, we characterize how the quantities that SGD has been claimed to (implicitly) regularize change over the course of training. By using micro-batches, i.e. disjoint smaller subsets of each mini-batch, we empirically show that explicitly penalizing the gradient norm or the Fisher Information Matrix trace, averaged over micro-batches, in the large-batch regime recovers small-batch SGD generalization, whereas Jacobian-based regularizations fail to do so. This generalization performance is shown to often be correlated with how well the regularized model’s gradient norms resemble those of small-batch SGD. We additionally show that this behavior breaks down as the micro-batch size approaches the batch size. Finally, we note that in this line of inquiry, positive experimental findings on CIFAR10 are often reversed on other datasets like CIFAR100, highlighting the need to test hypotheses on a wider collection of datasets.
+<br>
+</details>  
+  
+<details>
+	<summary> <b> Chuwen Zhang, Jiang Bo, Chang He, Yuntian Jiang, Dongdong Ge, Yinyu Ye </b>: <i> DRSOM: A Dimension Reduced Second-Order Method </i> </summary>
+
+<br>
+In this paper, we propose a Dimension-Reduced Second-Order Method (DRSOM) for convex and nonconvex (unconstrained) optimization. Under a trust-region-like framework, our method preserves the convergence of the second-order method while using only Hessianvector products in a few directions, which enables the computational overhead of our method remain comparable to the first-order such as the gradient descent method. Theoretically, we show that the method has a local quadratic convergence and a global convergence rate of O(ϵ −3/2 ) to satisfy the first-order and second-order conditions under a commonly adopted approximated Hessian assumption. We further show that this assumption can be removed if we perform a step of the Lanczos method periodically at the end-stage of the algorithm. The applicability and performance of DRSOM are exhibited by various computational experiments, particularly in machine learning and deep learning. For neural networks, our preliminary implementation seems to gain computational advantages in terms of training accuracy and iteration complexity over state-of-the-art first-order methods such as SGD and ADAM.
+<br>
+</details>
+  
+<details>
+	<summary> <b> Wenqi Zhu, Coralia Cartis </b>: <i> Quartic Polynomial Sub-problem Solutions in Tensor Methods for Nonconvex Optimization </i> </summary>
+
+<br>
+There has been growing interest in high-order tensor methods for nonconvex optimization in machine learning as these methods provide better/optimal worst-case evaluation complexity, stability to parameter tuning, and robustness to problem conditioning. The well-known $p$th-order adaptive regularization (AR$p$) method relies crucially on repeatedly minimising a nonconvex multivariate Taylor-based polynomial sub-problem. It remains an open question to find efficient techniques to minimise such a sub-problem for $p\ge3$.  In this paper, we propose a second-order method (SQO) for the AR$3$ (AR$p$ with $p=3$) sub-problem. SQO approximates the special-structure quartic polynomial sub-problem from above and below by using second-order models that can be minimised efficiently and globally. We prove that SQO finds a local minimiser of a quartic polynomial, but in practice, due to its construction, it can find a much lower minimum than cubic regularization approaches. This encourages us to continue our quest for algorithmic techniques that find approximately global solutions for such polynomials.
+<br>
+</details>
+<br>
+
+  
