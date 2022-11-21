@@ -34,6 +34,22 @@ nav_order: 2
 ## Plenary Talks
 
 
+
+<details>
+  <summary> <b>Coralia Cartis</b>: <i>Tensor Methods for Nonconvex Optimization.</i> </summary>
+  
+We consider the advantages of having and incorporating higher- (than second-) order derivative information inside regularization frameworks, generating higher-order regularization algorithms that have better complexity, universal properties and can certify higher-order criticality of candidate solutions. Time permitting, we also discuss inexact settings where problem information and smoothness assumptions are weakened, without affecting the algorithms’ complexity. Efficient solution of some higher-order polynomial subproblems will also be discussed. 
+</details>
+
+
+<details>
+  <summary> <b>Frank E. Curtis</b>: <i>Deterministically Constrained Stochastic Optimization.</i> </summary>
+  
+This talk highlights the recent work by my research group on the design, analysis, and implementation of algorithms for solving continuous nonlinear optimization problems that involve a stochastic objective function and deterministic constraints.  We will focus on our sequential quadratic optimization (commonly known as SQP) methods for cases when the constraints are defined by nonlinear systems of equations and inequalities.  Our methods are applicable for solving various types of problems, such as for training machine learning (e.g., deep learning) models with constraints.  Our work focuses on the "fully stochastic" regime in which only stochastic gradient estimates are employed, for which we have derived convergence-in-expectation results and worst-case iteration complexity bounds that are on par with stochastic gradient methods for the unconstrained setting. We will also discuss the various extensions that my group is exploring.
+</details>
+
+
+
 <details>
   <summary> <b>Amir Gholami</b>: <i>A Fast, Fisher Based Pruning of Transformers without Retraining.</i> </summary>
   
@@ -41,11 +57,9 @@ Pruning is an effective way to reduce the huge inference cost of large Transform
 </details>
 
 
-<details>
-  <summary> <b>Coralia Cartis</b>: <i>Tensor Methods for Nonconvex Optimization.</i> </summary>
-  
-We consider the advantages of having and incorporating higher- (than second-) order derivative information inside regularization frameworks, generating higher-order regularization algorithms that have better complexity, universal properties and can certify higher-order criticality of candidate solutions. Time permitting, we also discuss inexact settings where problem information and smoothness assumptions are weakened, without affecting the algorithms’ complexity. Efficient solution of some higher-order polynomial subproblems will also be discussed. 
-</details>
+
+
+
   
 <details>
   <summary> <b>Donald Goldfarb</b>: <i>Efficient Second-Order Stochastic Methods for Machine Learning.</i> </summary>
@@ -53,11 +67,6 @@ We consider the advantages of having and incorporating higher- (than second-) or
 Our talk focuses on training Deep Neural Networks (DNNs), which due to the enormous number of parameters current DNNs have, using the Hessian matrix or a full approximation to it in a second-order method is prohibitive, both in terms of memory requirements and computational cost per iteration. Hence, to be practical, layer-wise block-diagonal approximations to these matrices are usually used.  Here we describe second-order quasi-Newton (QN), natural gradient (NG), and generalized Gauss-Newton (GGN) methods of this type that are competitive with and often outperform first-order methods. These methods include those that use layer-wise (i) Kronecker-factored BFGS and L-BFGS QN approximations, (ii) tensor normal covariance and (iii) mini-block Fisher matrix approximations, and (iv) Sherman-Morrison-Woodbury based variants of NG and GGN methods.
 </details>
 
-<details>
-  <summary> <b>Frank E. Curtis</b>: <i>Deterministically Constrained Stochastic Optimization.</i> </summary>
-  
-This talk highlights the recent work by my research group on the design, analysis, and implementation of algorithms for solving continuous nonlinear optimization problems that involve a stochastic objective function and deterministic constraints.  We will focus on our sequential quadratic optimization (commonly known as SQP) methods for cases when the constraints are defined by nonlinear systems of equations and inequalities.  Our methods are applicable for solving various types of problems, such as for training machine learning (e.g., deep learning) models with constraints.  Our work focuses on the "fully stochastic" regime in which only stochastic gradient estimates are employed, for which we have derived convergence-in-expectation results and worst-case iteration complexity bounds that are on par with stochastic gradient methods for the unconstrained setting. We will also discuss the various extensions that my group is exploring.
-</details>
 
 <details>
   <summary> <b>Madeleine Udell</b>: <i>Low Rank Approximation for Faster Convex Optimization.</i> </summary>
@@ -99,6 +108,8 @@ We consider the problem of estimating the factors of a rank-1 matrix with i.i.d.
 A number of competing hypotheses have been proposed to explain why small-batch Stochastic Gradient Descent (SGD) leads to improved generalization over the full-batch regime, with recent work crediting the implicit regularization of various quantities throughout training. However, to date, empirical evidence assessing the explanatory power of these hypotheses is lacking. In this paper, we conduct an extensive empirical evaluation, focusing on the ability of various theorized mechanisms to close the small-to-large batch generalization gap. Additionally, we characterize how the quantities that SGD has been claimed to (implicitly) regularize change over the course of training. By using micro-batches, i.e. disjoint smaller subsets of each mini-batch, we empirically show that explicitly penalizing the gradient norm or the Fisher Information Matrix trace, averaged over micro-batches, in the large-batch regime recovers small-batch SGD generalization, whereas Jacobian-based regularizations fail to do so. This generalization performance is shown to often be correlated with how well the regularized model’s gradient norms resemble those of small-batch SGD. We additionally show that this behavior breaks down as the micro-batch size approaches the batch size. Finally, we note that in this line of inquiry, positive experimental findings on CIFAR10 are often reversed on other datasets like CIFAR100, highlighting the need to test hypotheses on a wider collection of datasets.
 <br>
 </details>  
+  
+  
   
 <details>
 	<summary> <b> Chuwen Zhang, Jiang Bo, Chang He, Yuntian Jiang, Dongdong Ge, Yinyu Ye </b>: <i> DRSOM: A Dimension Reduced Second-Order Method </i> </summary>
