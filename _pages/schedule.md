@@ -8,6 +8,8 @@ nav_order: 2
 ---
   
 ## **Workshop Schedule**
+
+Note: All times are in <b>Central Standard Time</b>
   
 | **Allocated Time** | **Agenda Item**                               |
 |--------------------|-----------------------------------------------|
