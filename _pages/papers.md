@@ -38,6 +38,10 @@ Second-order optimization uses curvature information about the objective functio
 <br>
 </details>
 <br>
+
+
+
+
 <details>
 	<summary> <b> Yuchen Fang, Sen Na, Mladen Kolar </b>: <i> Trust-Region Sequential Quadratic Programming for Stochastic Optimization with Random Models: First-Order Stationarity </i> </summary>
 
@@ -46,6 +50,21 @@ We consider optimization problems with a stochastic objective and deterministic 
 <br>
 </details>
 <br>
+
+<details>
+	<summary> <b> Yuchen Fang, Sen Na, Mladen Kolar </b>: <i> Fully Stochastic Trust-Region Sequential Quadratic Programming for Equality-Constrained Optimization Problems </i> </summary>
+
+<br>
+We propose a fully stochastic trust-region sequential quadratic programming (TR-StoSQP) algorithm to solve nonlinear optimization problems. The problems involve a stochastic objective and deterministic equality constraints. Under the fully stochastic setup, we suppose that only a single sample is generated in each iteration to estimate the objective gradient. Compared to the existing line-search StoSQP schemes, our algorithm allows one to employ indefinite Hessian matrices for SQP subproblems. The algorithm adaptively selects the radius of the trust region based on an input sequence $\{\beta_k\}$, the estimated KKT residual, and the estimated Lipschitz constants of the objective gradients and constraint Jacobians. To address the infeasibility issue of trust-region methods that arises in constrained optimization, we propose an adaptive relaxation technique to compute the trial step. In particular, we decompose the trial step into a normal step and a tangential step. Based on the ratios of the feasibility and optimality residuals to the full KKT residual, we decompose the full trust-region radius into two segments that are used to control the size of the normal and tangential steps, respectively. The normal step has a closed form, while the tangential step is solved from a trust-region subproblem, of which the Cauchy point is sufficient for our study. We establish the global almost sure convergence guarantee of TR-StoSQP, and demonstrate its empirical performance on a subset of problems in CUTEst test set.
+<br>
+</details>
+<br>
+
+
+ 
+
+
+
 <details>
 	<summary> <b> Rustem Islamov, Xun Qian, Slavomír Hanzely, Mher Safaryan, Peter Richtarik </b>: <i> Distributed Newton-Type Methods with Communication Compression and Bernoulli Aggregation </i> </summary>
 
