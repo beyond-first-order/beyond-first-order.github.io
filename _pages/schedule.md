@@ -13,24 +13,24 @@ Note: All times are in <b>Central Standard Time</b>
   
 | **Allocated Time** | **Agenda Item**                               |
 |--------------------|-----------------------------------------------|
-| 08.30 - 08.45      | Welcome and opening remarks                   |
-| 08.45 - 09.30      | Plenary Talk from  Donald Goldfarb            |
-| 09.30 - 10.15      | Plenary Talk from Coralia Cartis              |
-| 10.15 - 10.30      | Spotlight Talk from Wenqi Zhu                 |
-| 10.30 - 10.45      | Spotlight Talk from  Farshed Abdukhakimov     |
-| 10.45 - 11.00      | Spotlight Talk from Chuwen Zhang              |
-| 11.00 - 11.30      | Coffee Break                                  |
-| 11.00 - 12.00      | Poster Session  \#1                           |
-| 12.00 - 12.15      | Spotlight Talk from Zachary Novack            |
-| 12.15 - 12.30      | Spotlight Talk from Klea Ziu                  |
-| 12.30 - 12.45      | Spotlight Talk from Kabir A Chandrasekher     |
-| 12.45 - 14.15      | Lunch Break                                   |
-| 14.15 - 15.00      | Plenary Talk from Frank E. Curtis             |
-| 15.00 - 15.45      | Plenary Talk from Madeleine Udell             |
-| 15.45 - 16.15      | Coffee Break                                  |
-| 15.45 - 16.45      | Poster Session \#2                            |
-| 16.45 - 17.30      | Plenary talk from  Amir Gholami               |
-| 17.30 - 17.45      | Plenary ending discussion and closing remarks |
+| 08.15 - 08.30      | Welcome and opening remarks                   |
+| 08.30 - 09.15      | Plenary Talk from  Donald Goldfarb            |
+| 09.15 - 10.00      | Plenary Talk from Coralia Cartis              |
+| 10.00 - 10.30      | Coffee Break                                  |
+| 10.00 - 10.30      | Poster Session  \#1                           |
+| 10.30 - 10.45      | Spotlight Talk from Wenqi Zhu                 |
+| 10.45 - 11.00      | Spotlight Talk from  Farshed Abdukhakimov     |
+| 11.00 - 11.15      | Spotlight Talk from Chuwen Zhang              |
+| 11.15 - 11.30      | Spotlight Talk from Zachary Novack            |
+| 11.30 - 11.45      | Spotlight Talk from Klea Ziu                  |
+| 11.45 - 12.00      | Spotlight Talk from Kabir A Chandrasekher     |
+| 12.00 - 13.30      | Lunch Break                                   |
+| 13.39 - 14.15      | Plenary Talk from Frank E. Curtis             |
+| 14.15 - 15.00      | Plenary Talk from Madeleine Udell             |
+| 15.00 - 15.30      | Coffee Break                                  |
+| 15.00 - 16.00      | Poster Session \#2                            |
+| 16.00 - 16.45      | Plenary talk from  Amir Gholami               |
+| 16.45 - 17.00      | Plenary ending discussion and closing remarks |
 
 <br>
 ## Plenary Talks
