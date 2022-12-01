@@ -25,7 +25,7 @@ Note: All times are in <b>Central Standard Time</b>
 | 11.30 - 11.45      | Spotlight Talk from Klea Ziu                  |
 | 11.45 - 12.00      | Spotlight Talk from Kabir A Chandrasekher     |
 | 12.00 - 13.30      | Lunch Break                                   |
-| 13.39 - 14.15      | Plenary Talk from Frank E. Curtis             |
+| 13.30 - 14.15      | Plenary Talk from Frank E. Curtis             |
 | 14.15 - 15.00      | Plenary Talk from Madeleine Udell             |
 | 15.00 - 15.30      | Coffee Break                                  |
 | 15.00 - 16.00      | Poster Session \#2                            |
