@@ -21,4 +21,15 @@ A driving factor for this is the large difference in development effort. By the 
 
 The purpose of this workshop is to address this gap, to create an environment where higher-order methods are fairly considered and compared against one-another, and to foster healthy discussion with the end goal of mainstream acceptance of higher-order methods in ML and DL.
 
-##### HOO-2022 will be hosted in-person at NeurIPS on December 2nd, 2022. For more information, see the schedule page.
+### Thanks to all for a successfull workshop! 
+<div class="row">
+  <div class="column">
+    <img src="IMG_1.JPG" alt="Images from the workshop" style="width:40%">
+  </div>
+  <div class="column">
+    <img src="IMG_2.JPG" alt="Images from the workshop" style="width:40%">
+  </div>
+  <div class="column">
+    <img src="IMG_3.JPG" alt="Images from the workshop" style="width:40%">
+  </div>
+</div>
