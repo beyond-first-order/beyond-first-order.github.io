@@ -24,12 +24,12 @@ The purpose of this workshop is to address this gap, to create an environment wh
 ### Thanks to all for a successfull workshop! 
 <div class="row">
   <div class="column">
-    <img src="../assets/img/IMG_1.JPG" alt="Images from the workshop" style="width:40%">
+    <img src="../assets/img/IMG_1.jpg" alt="Images from the workshop" style="width:40%">
   </div>
   <div class="column">
     <img src="../assets/img/IMG_2.JPG" alt="Images from the workshop" style="width:40%">
   </div>
   <div class="column">
-    <img src="../assets/img/IMG_3.JPG" alt="Images from the workshop" style="width:40%">
+    <img src="../assets/img/IMG_3.jpg" alt="Images from the workshop" style="width:40%">
   </div>
 </div>
